@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brad-bb-bell
 - 👀 I’m interested in becoming a full stack web developer
-- 🌱 I’m currently learning Ruby and Ruby on Rails
+- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on ... TBD
 - 📫 How to reach me => brad.bb.bell@gmail.com
