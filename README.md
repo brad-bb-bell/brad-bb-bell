@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @brad-bb-bell
-- 👀 I’m interested in becoming a full stack web developer
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on ... TBD
+- 👋 Hi, I’m @brad-bb-bell :)
+- 👀 I’m interested in clean, elegant code.
+- 🌱 I’m currently building my first full stack app, Last Best Ski Resorts.
+- 💞️ I’m available to collaborate on anything! I love working with others towards a common goal.
 - 📫 How to reach me => brad.bb.bell@gmail.com
