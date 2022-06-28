@@ -23,4 +23,4 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/brad-bb-bell"><img src="https://github-readme-stats.vercel.app/api?username=brad-bb-bell&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="brad-bb-bell's GitHub stats" /></a>
+<a href="http://www.github.com/brad-bb-bell"><img src="https://github-readme-stats.vercel.app/api?username=brad-bb-bell&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="brad-bb-bell's GitHub stats" /></a>
