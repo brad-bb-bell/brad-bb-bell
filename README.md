@@ -2,7 +2,7 @@
 - 👀 I aspire to write clean, elegant code.
 - 🌱 I’m currently building my first full stack app, Last Best Ski Resorts.
 - 💞️ I’m available to collaborate on anything! I love working with others towards a common goal.
-- ⛰️ If I'm not coding I'm in the mountains.. Skiing, climbing, eating snacks and taking naps.
+- ⛰️ If I'm not coding I'm in the mountains.. Skiing, climbing, eating snacks and/or taking naps.
 - 📫 How to reach me => brad.bb.bell@gmail.com
 
 ### Skills
