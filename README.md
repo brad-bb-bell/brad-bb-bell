@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brad Bell :)
 - 🐱 Web Software Developer at Montana State University.
 - 👀 I aspire to write clean, elegant code.
-- 📚 Full Stack MEVN developer.
+- 📚 Full Stack MEVN.
 - 🌱 Presently focused on gaining a deep knowledge of Vue.
 - ⛰️ If I'm not coding I'm in the mountains.. Skiing, climbing, eating snacks and/or taking naps.
 - 📫 How to reach me => brad.bb.bell@gmail.com
