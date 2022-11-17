@@ -3,7 +3,7 @@
 - 👀 I aspire to write clean, elegant code.
 - 📚 Full Stack MEVN.
 - 🌱 Presently focused on gaining a deep knowledge of Vue.
-- ⛰️ If I'm not coding I'm in the mountains.. Skiing, climbing, eating snacks and/or taking naps.
+- ⛰️ If I'm not coding I'm in the mountains.. Skiing, climbing, and eating snacks.
 - 📫 How to reach me => brad.bb.bell@gmail.com
 
 ### Skills
