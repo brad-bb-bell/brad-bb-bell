@@ -9,15 +9,15 @@
 ## Skills
 
 ### Programming Languages: ###
-- Java
 - JavaScript
-- PHP
 - Ruby
+- Java
+- PHP
 ### Frameworks and Libraries: ###
-- Vue.js
-- Nuxt.js
-- Node.js
-- Express.js
+- Vue
+- Nuxt
+- Node
+- Express
 ### Web Technologies: ###
 - HTML5
 - CSS3
