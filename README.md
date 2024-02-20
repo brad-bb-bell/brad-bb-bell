@@ -1,10 +1,10 @@
 # Hi, I’m Brad Bell :)
-- Software Engineer at Montana State University.
-- I aspire to write clean, elegant code and deliver amazing UX.
-- Full stack: Vue. Rails, Express, Node. MongoDB, Postgres.
-- Presently focused on building with Nuxt.
-- If I'm not coding I'm in the mountains.. Skiing, climbing, and eating snacks.
-- Contact => brad.bb.bell@gmail.com
+- 🐱 Software Engineer at Montana State University.
+- ✍🏼 I aspire to write clean, elegant code and deliver amazing UX.
+- 📚 Full stack: Vue. Rails, Express, Node. MongoDB, Postgres.
+- 🌱 Growth mindset. Consistent and dedicated.
+- ⛰️ If I'm not coding I'm in the mountains.. Skiing, climbing, and eating snacks.
+- 📭 Contact => brad.bb.bell@gmail.com
 
 ## Skills
 
