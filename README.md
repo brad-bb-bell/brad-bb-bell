@@ -8,23 +8,23 @@
 
 ## Skills
 
-###Programming Languages:###
+### Programming Languages: ###
 - Java
 - JavaScript
 - PHP
 - Ruby
-###Frameworks and Libraries:###
+### Frameworks and Libraries: ###
 - Vue.js
 - Nuxt.js
 - Node.js
 - Express.js
-###Web Technologies:###
+### Web Technologies: ###
 - HTML5
 - CSS3
-###CSS Frameworks:###
+### CSS Frameworks: ###
 - Tailwind CSS
 - Bootstrap
-###Databases:###
+### Databases: ###
 - MongoDB
 - PostgreSQL
 
