@@ -30,6 +30,6 @@
 
 ## Socials
 
-- [LinkedIn](https://www.linkedin.com/in/brad-bb-bell)
-- [Instagram](http://www.instagram.com/ballinbu)
-- [Twitter](https://www.twitter.com/dadmodebb)
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />[LinkedIn](https://www.linkedin.com/in/brad-bb-bell)
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />[Instagram](http://www.instagram.com/ballinbu)
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />[Twitter](https://www.twitter.com/dadmodebb)
