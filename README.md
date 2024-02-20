@@ -30,6 +30,6 @@
 
 ## Socials
 
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />[LinkedIn](https://www.linkedin.com/in/brad-bb-bell)
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />[Instagram](http://www.instagram.com/ballinbu)
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />[Twitter](https://www.twitter.com/dadmodebb)
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="16" height="16" />[LinkedIn](https://www.linkedin.com/in/brad-bb-bell)
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="16" height="16" />[Instagram](http://www.instagram.com/ballinbu)
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="16" height="16" />[Twitter](https://www.twitter.com/dadmodebb)
