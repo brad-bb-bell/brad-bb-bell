@@ -1,5 +1,5 @@
 # Hi, I’m Brad Bell :)
-- Software Developer at Montana State University.
+- Software Engineer at Montana State University.
 - I aspire to write clean, elegant code and deliver amazing UX.
 - Full stack: Vue. Rails, Express, Node. MongoDB, Postgres.
 - Presently focused on building with Nuxt.
@@ -8,28 +8,28 @@
 
 ## Skills
 
-** Programming Languages: **
+**Programming Languages:**
 - Java
 - JavaScript
 - PHP
 - Ruby
-** Frameworks and Libraries: **
+**Frameworks and Libraries:**
 - Vue.js
 - Nuxt.js
 - Node.js
 - Express.js
-** Web Technologies: **
+**Web Technologies:**
 - HTML5
 - CSS3
-** CSS Frameworks: **
+**CSS Frameworks:**
 - Tailwind CSS
 - Bootstrap
-** Databases: **
+**Databases:**
 - MongoDB
 - PostgreSQL
 
 ## Socials
 
-[LinkedIn](https://www.linkedin.com/in/brad-bb-bell)
-[Instagram](http://www.instagram.com/ballinbu)
-[Twitter](https://www.twitter.com/dadmodebb)
+- [LinkedIn](https://www.linkedin.com/in/brad-bb-bell)
+- [Instagram](http://www.instagram.com/ballinbu)
+- [Twitter](https://www.twitter.com/dadmodebb)
