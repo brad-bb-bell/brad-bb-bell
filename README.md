@@ -18,6 +18,7 @@
 - Nuxt
 - Node
 - Express
+- Ruby on Rails
 ### Web Technologies: ###
 - HTML5
 - CSS3
