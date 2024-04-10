@@ -16,7 +16,6 @@
 ### Frameworks and Libraries: ###
 - Vue
 - Nuxt
-- Node
 - Express
 - Ruby on Rails
 ### Web Technologies: ###
