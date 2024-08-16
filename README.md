@@ -8,13 +8,13 @@
 
 ## Skills
 
-| **Category**            | **Technologies**                             |
-|-------------------------|----------------------------------------------|
-| **Programming Languages** | JavaScript, Ruby, Java, PHP                  |
-| **Frameworks and Libraries** | Vue, Nuxt, Express, Ruby on Rails           |
-| **Web Technologies**     | HTML5, CSS3                                  |
-| **CSS Frameworks**       | Tailwind CSS, Bootstrap                      |
-| **Databases**            | MongoDB, PostgreSQL                          |
+| **Category**        | **Technologies**                             |
+|---------------------|----------------------------------------------|
+| Programming Languages | JavaScript, Ruby, Java, PHP                  |
+| Frameworks and Libraries | Vue, Nuxt, Express, Ruby on Rails           |
+| Web Technologies     | HTML5, CSS3                                  |
+| CSS Frameworks       | Tailwind CSS, Bootstrap                      |
+| Databases            | MongoDB, PostgreSQL                          |
 
 
 ## Socials
