@@ -1,7 +1,6 @@
 # Brad Bell
-- 🐱 Software Engineer at Montana State University.
+- 🐱 Full-stack Software Engineer at Montana State University.
 - ✍🏼 I write clean code and deliver amazing UX.
-- 📚 Full stack: Vue. Rails, Express, Node. MongoDB, Postgres.
 - 🌱 Growth mindset. Consistent dedication.
 - ⛰️ If I'm not coding I'm in the mountains.. Skiing, biking, climbing, camping, etc.
 - 📭 Contact => brad.bb.bell@gmail.com
