@@ -11,10 +11,10 @@
 | **Category**        | **Technologies**                             |
 |---------------------|----------------------------------------------|
 | Programming Languages | JavaScript, Ruby, Java, PHP                  |
-| Frameworks and Libraries | Vue, Nuxt, Express, Ruby on Rails           |
+| Frameworks and Libraries | Vue, Nuxt, Express, Ruby on Rails, HTMX          |
 | Web Technologies     | HTML5, CSS3                                  |
 | CSS Frameworks       | Tailwind CSS, Bootstrap                      |
-| Databases            | MongoDB, PostgreSQL                          |
+| Databases            | MongoDB, PostgreSQL, MySQL                   |
 
 
 ## Socials
