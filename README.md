@@ -1,9 +1,6 @@
 # Brad Bell
-- 🐱 Full-stack Software Engineer at Montana State University.
-- ✍🏼 I write clean code and deliver amazing UX.
-- 🌱 Growth mindset. Consistent dedication.
-- ⛰️ If I'm not coding I'm in the mountains.. Skiing, biking, climbing, camping, etc.
-- 📭 Contact => brad.bb.bell@gmail.com
+- Full-stack Software Engineer at Montana State University.
+- Contact => brad.bb.bell@gmail.com
 
 ## Skills
 
