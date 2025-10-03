@@ -1,5 +1,5 @@
 # Brad Bell
-- Full-stack Software Engineer at Montana State University.
+- Full-stack Software Engineer at Montana State University
 - Contact => brad.bb.bell@gmail.com
 
 ## Skills
