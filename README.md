@@ -6,7 +6,7 @@ Full-stack Software Engineer
 
 | **Category**        | **Technologies**                             |
 |---------------------|----------------------------------------------|
-| Programming Languages | JavaScript, Ruby, Java, PHP                  |
+| Programming Languages | TypeScript, JavaScript, Ruby, Java, PHP                  |
 | Frameworks and Libraries | Vue, Nuxt, Express, Ruby on Rails, HTMX, Laravel          |
 | Web Technologies     | HTML5, CSS3                                  |
 | CSS Frameworks       | Tailwind CSS, Bootstrap                      |
